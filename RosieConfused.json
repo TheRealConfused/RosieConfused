@@ -97,7 +97,7 @@
             "#080608"
         ],
         "BG_BASE_TERTIARY": [
-            "#0F0B0F"
+            "#000000"
         ],
         "HOME_BACKGROUND": [
             "#000000"
@@ -115,7 +115,7 @@
             "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#0D0C0E"
+            "#000000"
         ],
         "CHANNEL_ICON": [
             "#e7c6db"
@@ -166,7 +166,7 @@
             "#FFFFFF"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#000000"
+            "#0d0d0d"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#4D4141"
