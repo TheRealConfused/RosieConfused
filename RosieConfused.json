@@ -148,7 +148,7 @@
             "#FCD4d4"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#1b1616"
+            "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#2b232f"
@@ -163,7 +163,7 @@
             "#A39595"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#F4F3F3"
+            "#FFFFFF"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#18141a"
