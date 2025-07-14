@@ -103,7 +103,7 @@
             "#000000"
         ],
         "BORDER_FAINT": [
-            "#fe90c9"
+            "#000000"
         ],
         "BORDER_STRONG": [
             "#000000"
@@ -283,7 +283,7 @@
         "GREEN_300": "#f598c3",
         "GREEN_330": "#ed93bd",
         "GREEN_345": "#e890b9",
-        "GREEN_360": "#e68eb7",
+        "GREEN_360": "fe90c9",
         "GREEN_400": "#db88af",
         "GREEN_430": "#d483a9",
         "GREEN_460": "#cc7ea2",
